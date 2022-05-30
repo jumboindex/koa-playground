@@ -1,0 +1,18 @@
+{
+  "name": "koa-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "first": "node index.js",
+    "second": "node second.js",
+    "third": "node third.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "koa-router": "^10.1.1"
+  }
+}
